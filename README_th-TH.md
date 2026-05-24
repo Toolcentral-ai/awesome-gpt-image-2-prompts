@@ -1,6 +1,6 @@
-# Image Prompt Templates — ไทย
+# Awesome GPT Image 2 Prompts — ไทย
 
-This repository keeps a language entry structure compatible with the source repository. Core generated data is language-neutral; prompt text and localized fields are available in `data/image-prompt-templates.json`.
+This repository keeps a language entry structure compatible with the source repository. Core generated data is language-neutral; prompt text and localized fields are available in `data/awesome-gpt-image-2-prompts.json`.
 
 - Main README: [README.md](README.md)
 - Source repository: https://github.com/YouMind-OpenLab/awesome-gpt-image-2

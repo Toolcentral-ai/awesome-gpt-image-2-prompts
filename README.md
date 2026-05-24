@@ -1,4 +1,4 @@
-# Image Prompt Templates / 图像提示词模板
+# Awesome GPT Image 2 Prompts / GPT Image 2 提示词
 
 [English](README.md) · [简体中文](README_zh.md) · [繁體中文](README_zh-TW.md) · [日本語](README_ja-JP.md) · [한국어](README_ko-KR.md) · [ไทย](README_th-TH.md) · [Tiếng Việt](README_vi-VN.md) · [हिन्दी](README_hi-IN.md) · [Español](README_es-ES.md) · [Español (Latinoamérica)](README_es-419.md) · [Deutsch](README_de-DE.md) · [Français](README_fr-FR.md) · [Italiano](README_it-IT.md) · [Português (Brasil)](README_pt-BR.md) · [Português](README_pt-PT.md) · [Türkçe](README_tr-TR.md)
 
@@ -15,7 +15,7 @@ Open image prompt templates derived from public Image Prompt Gallery cases, enri
 - Source web gallery: https://youmind.com/gpt-image-2-prompts
 - Templates: 7289
 - Featured curated prompts: 6
-- Generated at: 2026-05-24T18:38:15.043Z
+- Generated at: 2026-05-24T18:45:34.879Z
 - Schema version: 2026-05-24
 
 ### What is included
@@ -29,12 +29,12 @@ Open image prompt templates derived from public Image Prompt Gallery cases, enri
 
 ### Data files
 
-- `data/image-prompt-templates.json` — full enriched template bundle
+- `data/awesome-gpt-image-2-prompts.json` — full enriched template bundle
 - `data/categories.json` — source category groups and gallery links
 - `data/featured-prompts.json` — featured prompts from the source README
 - `data/source-prompts.json` — source README prompt index
 - `docs/source-gallery.md` — bilingual category and featured-prompt navigation
-- `skills/image-prompt-templates/SKILL.md` — bilingual agent skill
+- `skills/awesome-gpt-image-2-prompts/SKILL.md` — bilingual agent skill
 
 ### Source categories
 
@@ -63,14 +63,14 @@ Open image prompt templates derived from public Image Prompt Gallery cases, enri
 
 ## 中文
 
-本仓库提供从 Image Prompt Gallery 公开 case 派生的图像提示词模板，并补齐 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) 源仓库里的详细分类链接、精选提示词索引和高质量生成图。
+本仓库提供从 Image Prompt Gallery 公开 case 派生的GPT Image 2 提示词，并补齐 [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) 源仓库里的详细分类链接、精选提示词索引和高质量生成图。
 
 - 来源站点：https://imagepromptgallery.com
 - 源仓库：https://github.com/YouMind-OpenLab/awesome-gpt-image-2
 - 源 Web Gallery：https://youmind.com/gpt-image-2-prompts
 - 模板数量：7289
 - 精选提示词：6
-- 生成时间：2026-05-24T18:38:15.043Z
+- 生成时间：2026-05-24T18:45:34.879Z
 - Schema 版本：2026-05-24
 
 ### 包含内容
@@ -84,12 +84,12 @@ Open image prompt templates derived from public Image Prompt Gallery cases, enri
 
 ### 数据文件
 
-- `data/image-prompt-templates.json`：完整增强模板数据包
+- `data/awesome-gpt-image-2-prompts.json`：完整增强模板数据包
 - `data/categories.json`：源仓库分类分组和 gallery 链接
 - `data/featured-prompts.json`：源 README 精选提示词
 - `data/source-prompts.json`：源 README prompt 索引
 - `docs/source-gallery.md`：中英文双语分类与精选导航
-- `skills/image-prompt-templates/SKILL.md`：中英文双语 agent skill
+- `skills/awesome-gpt-image-2-prompts/SKILL.md`：中英文双语 agent skill
 
 ### 源仓库分类
 
