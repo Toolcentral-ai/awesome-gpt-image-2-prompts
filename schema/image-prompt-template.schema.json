@@ -52,8 +52,14 @@
           "title": {
             "type": "string"
           },
+          "titleLocalized": {
+            "type": "object"
+          },
           "category": {
             "type": "string"
+          },
+          "categoryDetail": {
+            "type": "object"
           },
           "tags": {
             "type": "array",
@@ -73,6 +79,9 @@
           },
           "prompt": {
             "type": "string"
+          },
+          "promptLocalized": {
+            "type": "object"
           },
           "variables": {
             "type": "array",
@@ -95,6 +104,18 @@
             "type": "string"
           },
           "previewImageUrl": {
+            "type": "string"
+          },
+          "highQualityImageUrl": {
+            "type": "string"
+          },
+          "featuredImagePath": {
+            "type": "string"
+          },
+          "featured": {
+            "type": "boolean"
+          },
+          "sourcePromptId": {
             "type": "string"
           },
           "source": {
