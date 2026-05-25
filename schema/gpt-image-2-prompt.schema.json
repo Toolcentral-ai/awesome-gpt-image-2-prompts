@@ -1,0 +1,132 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Toolcentral-ai/gpt-image-2-prompts/schema/gpt-image-2-prompt.schema.json",
+  "title": "Image Prompt Template Bundle",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "generatedAt",
+    "source",
+    "count",
+    "templates"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": "2026-05-24"
+    },
+    "generatedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "source": {
+      "type": "object"
+    },
+    "count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "templates": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "slug",
+          "title",
+          "category",
+          "tags",
+          "model",
+          "inputMode",
+          "prompt",
+          "variables",
+          "referenceImageCount",
+          "source"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "slug": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "titleLocalized": {
+            "type": "object"
+          },
+          "category": {
+            "type": "string"
+          },
+          "categoryDetail": {
+            "type": "object"
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "model": {
+            "type": "string"
+          },
+          "inputMode": {
+            "enum": [
+              "text_to_image",
+              "single_image_to_image",
+              "multi_image_to_image"
+            ]
+          },
+          "prompt": {
+            "type": "string"
+          },
+          "promptLocalized": {
+            "type": "object"
+          },
+          "variables": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "name",
+                "defaultValue"
+              ]
+            }
+          },
+          "referenceImageCount": {
+            "type": "object",
+            "required": [
+              "min",
+              "max"
+            ]
+          },
+          "aspectRatio": {
+            "type": "string"
+          },
+          "previewImageUrl": {
+            "type": "string"
+          },
+          "highQualityImageUrl": {
+            "type": "string"
+          },
+          "featuredImagePath": {
+            "type": "string"
+          },
+          "featured": {
+            "type": "boolean"
+          },
+          "sourcePromptId": {
+            "type": "string"
+          },
+          "source": {
+            "type": "object",
+            "required": [
+              "caseUrl",
+              "attribution"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-24T18:45:34.879Z",
+  "generatedAt": "2026-05-25T02:06:15.665Z",
   "count": 6,
   "featured": [
     {
-      "id": "youmind_prompt_13460",
+      "id": "gpt_image_2_prompt_13460",
       "no": 1,
-      "youmindId": "13460",
+      "modelPromptId": "13460",
       "title": "VR Headset Exploded View Poster",
       "category": "General",
       "categorySlug": "general",
@@ -15,32 +15,27 @@
       "prompt": "{\n  \"type\": \"exploded view product diagram poster\",\n  \"subject\": \"VR headset\",\n  \"style\": \"clean high-tech 3D render, studio lighting, glowing accents\",\n  \"background\": \"{argument name=\\\"background color\\\" default=\\\"soft purple and blue gradient\\\"}\",\n  \"header\": {\n    \"logo\": \"∞ {argument name=\\\"product name\\\" default=\\\"Meta Quest 3\\\"}\",\n    \"subtitle\": \"{argument name=\\\"main catchphrase\\\" default=\\\"まったく新しい現実を、まったく新しい構造から。\\\"}\"\n  },\n  \"layout\": {\n    \"centerpiece\": \"vertically stacked exploded view of a VR headset showing 9 distinct layers of internal components: outer shell, camera sensors, motherboard with chip, pancake lenses, internal frame, battery packs, side straps, top strap, and facial interface cushion.\",\n    \"callout_labels\": {\n      \"count\": 8,\n      \"left_side\": [\n        \"Snapdragon® XR2 Gen 2\\n圧倒的な処理性能でリアルタイムな体験を。\",\n        \"調整可能なIPD機構\\n幅広いユーザーに快適なフィット感を。\",\n        \"精密設計されたヘッドストラップ\\n快適さと安定性を追求したエルゴノミクス。\"\n      ],\n      \"right_side\": [\n        \"フェイスプレート\\n洗練されたデザインと最適な重量バランス。\",\n        \"トラッキングカメラ\\n高精度な位置トラッキングと環境認識を実現。\",\n        \"パンケーキレンズ\\n薄型設計で広い視野角と鮮明な映像を提供。\",\n        \"高性能バッテリー\\n長時間駆動を支える最適化された電源設計。\",\n        \"柔らかなフェイスインターフェース\\n長時間でも快適な装着感を実現。\"\n      ]\n    },\n    \"footer\": {\n      \"left_text_block\": {\n        \"headline\": \"{argument name=\\\"bottom headline\\\" default=\\\"体験は、構造から進化する。\\\"}\",\n        \"body\": \"一つひとつのパーツに、没入体験を支える最先端テクノロジーとこだわりの設計。Meta Quest 3は、未来を感じさせる体験を内部から生み出しています。\"\n      },\n      \"right_logo\": \"∞ Meta\"\n    }\n  }\n}",
       "images": [
         {
-          "url": "https://cms-assets.youmind.com/media/1776658772018_lukyfw_HGSUfldbIAEiMWZ.jpg",
+          "url": "assets/featured/gpt-image-2-featured-13460-1.jpg",
           "alt": "VR Headset Exploded View Poster - Image 1",
           "index": 1
         }
       ],
-      "primaryImageUrl": "https://cms-assets.youmind.com/media/1776658772018_lukyfw_HGSUfldbIAEiMWZ.jpg",
-      "featuredImagePath": "assets/featured/youmind-13460-1.jpg",
+      "primaryImageUrl": "assets/featured/gpt-image-2-featured-13460-1.jpg",
+      "featuredImagePath": "assets/featured/gpt-image-2-featured-13460-1.jpg",
       "author": {
-        "name": "wory＠ホッピング中",
-        "url": "https://x.com/wory37303852"
-      },
-      "source": {
-        "label": "Twitter Post",
-        "url": "https://x.com/wory37303852/status/2045925660401795478#reversed-0"
+        "name": "wory＠ホッピング中"
       },
       "published": "April 19, 2026",
       "languages": [
         "en"
       ],
-      "tryUrl": "https://youmind.com/gpt-image-2-prompts?id=13460",
-      "sourceReadmeUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md#no-1-vr-headset-exploded-view-poster"
+      "tryUrl": "https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13460",
+      "sourceReadmeUrl": "https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13460"
     },
     {
-      "id": "youmind_prompt_13515",
+      "id": "gpt_image_2_prompt_13515",
       "no": 2,
-      "youmindId": "13515",
+      "modelPromptId": "13515",
       "title": "Illustrated City Food Map",
       "category": "General",
       "categorySlug": "general",
@@ -50,32 +45,27 @@
       "prompt": "{\n  \"type\": \"illustrated map infographic\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"watercolor and ink hand-drawn illustration on vintage parchment\\\"}\",\n  \"title_section\": {\n    \"text\": \"{argument name=\\\"city name\\\" default=\\\"成都\\\"} {argument name=\\\"map title\\\" default=\\\"吃货暴走地图\\\"}\",\n    \"mascot\": \"cartoon red chili pepper wearing sunglasses and giving a thumbs up\"\n  },\n  \"border\": \"{argument name=\\\"border decoration\\\" default=\\\"vine of green leaves and red chili peppers\\\"}\",\n  \"layout\": {\n    \"background\": \"textured beige parchment paper with yellow roads, blue rivers, and green park areas\",\n    \"sections\": [\n      {\n        \"title\": \"landmarks\",\n        \"count\": 6,\n        \"illustrations\": [\"traditional pavilion\", \"traditional monastery\", \"modern skyscraper with climbing panda\", \"tall TV tower\", \"traditional gate\", \"industrial buildings\"],\n        \"labels\": [\"人民公园\", \"文殊院\", \"IFS\", \"339电视塔\", \"宽窄巷子\", \"东郊记忆\"]\n      },\n      {\n        \"title\": \"food_spots\",\n        \"count\": 12,\n        \"illustrations\": [\"mapo tofu\", \"dumplings in chili oil\", \"skewers in pot\", \"sticky rice balls\", \"egg baking cake\", \"nine-grid hotpot\", \"sweet potato noodles\", \"cold skewers\", \"spicy mixed dish\", \"covered tea bowl\", \"ice jelly dessert\", \"spicy rabbit heads\"],\n        \"labels\": [\"1 陈麻婆豆腐\", \"2 钟水饺\", \"3 春熙路\", \"4 宽窄巷子·三大炮\", \"5 建设路·叶婆婆蛋烘糕\", \"6 玉林路·小龙坎火锅\", \"7 香香巷·肥肠粉\", \"8 武侯祠大街·钵钵鸡\", \"9 东郊记忆·冒椒火辣\", \"10 人民公园·鹤鸣茶社\", \"11 锦里古街·冰粉\", \"12 双流老妈兔头\"]\n      },\n      {\n        \"title\": \"图例\",\n        \"position\": \"bottom-right\",\n        \"count\": 5,\n        \"items\": [\"red dot\", \"green house\", \"green tree\", \"blue line\", \"yellow double line\"],\n        \"labels\": [\"美食地点\", \"地标景点\", \"公园绿地\", \"河流湖泊\", \"主要道路\"]\n      }\n    ],\n    \"centerpiece\": \"giant panda sitting and eating bamboo\",\n    \"bottom_right_extras\": [\"vintage compass rose with N, S, E, W\", \"disclaimer text '温馨提示：吃辣需谨慎，肠胃要保护~' with a red chili pepper icon\"]\n  }\n}",
       "images": [
         {
-          "url": "https://cms-assets.youmind.com/media/1776662673014_nf0taw_HGRMNDybsAAGG88.jpg",
+          "url": "assets/featured/gpt-image-2-featured-13515-1.jpg",
           "alt": "Illustrated City Food Map - Image 1",
           "index": 1
         }
       ],
-      "primaryImageUrl": "https://cms-assets.youmind.com/media/1776662673014_nf0taw_HGRMNDybsAAGG88.jpg",
-      "featuredImagePath": "assets/featured/youmind-13515-1.jpg",
+      "primaryImageUrl": "assets/featured/gpt-image-2-featured-13515-1.jpg",
+      "featuredImagePath": "assets/featured/gpt-image-2-featured-13515-1.jpg",
       "author": {
-        "name": "皮皮特",
-        "url": "https://x.com/mm_zzm44854"
-      },
-      "source": {
-        "label": "Twitter Post",
-        "url": "https://x.com/mm_zzm44854/status/2045861258520568230#reversed-1"
+        "name": "皮皮特"
       },
       "published": "April 19, 2026",
       "languages": [
         "en"
       ],
-      "tryUrl": "https://youmind.com/gpt-image-2-prompts?id=13515",
-      "sourceReadmeUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md#no-2-illustrated-city-food-map"
+      "tryUrl": "https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13515",
+      "sourceReadmeUrl": "https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13515"
     },
     {
-      "id": "youmind_prompt_13983",
+      "id": "gpt_image_2_prompt_13983",
       "no": 3,
-      "youmindId": "13983",
+      "modelPromptId": "13983",
       "title": "Momotaro Explainer Slide in Hybrid Style",
       "category": "General",
       "categorySlug": "general",
@@ -85,37 +75,27 @@
       "prompt": "Create an explanatory slide ({argument name=\"format\" default=\"ponchi-e diagram\"}) for {argument name=\"theme\" default=\"Momotaro\"} that fuses the gentle atmosphere of \"Irasutoya\" with the overwhelming information density of \"Kasumigaseki slides\".",
       "images": [
         {
-          "url": "https://cms-assets.youmind.com/media/1776699414289_t6mebs_HGQQxukbUAA_qc0.jpg",
+          "url": "assets/featured/gpt-image-2-featured-13983-1.jpg",
           "alt": "Momotaro Explainer Slide in Hybrid Style - Image 1",
           "index": 1
-        },
-        {
-          "url": "https://cms-assets.youmind.com/media/1776699414149_63j8pd_HGQQy1_aQAAHSqP.jpg",
-          "alt": "Momotaro Explainer Slide in Hybrid Style - Image 2",
-          "index": 2
         }
       ],
-      "primaryImageUrl": "https://cms-assets.youmind.com/media/1776699414289_t6mebs_HGQQxukbUAA_qc0.jpg",
-      "featuredImagePath": "assets/featured/youmind-13983-1.jpg",
+      "primaryImageUrl": "assets/featured/gpt-image-2-featured-13983-1.jpg",
+      "featuredImagePath": "assets/featured/gpt-image-2-featured-13983-1.jpg",
       "author": {
-        "name": "やまもん",
-        "url": "https://x.com/yammamon"
-      },
-      "source": {
-        "label": "Twitter Post",
-        "url": "https://x.com/yammamon/status/2045778624092254603"
+        "name": "やまもん"
       },
       "published": "April 19, 2026",
       "languages": [
         "ja"
       ],
-      "tryUrl": "https://youmind.com/gpt-image-2-prompts?id=13983",
-      "sourceReadmeUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md#no-3-momotaro-explainer-slide-in-hybrid-style"
+      "tryUrl": "https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13983",
+      "sourceReadmeUrl": "https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13983"
     },
     {
-      "id": "youmind_prompt_14036",
+      "id": "gpt_image_2_prompt_14036",
       "no": 4,
-      "youmindId": "14036",
+      "modelPromptId": "14036",
       "title": "E-commerce Live Stream UI Mockup",
       "category": "General",
       "categorySlug": "general",
@@ -125,32 +105,27 @@
       "prompt": "{\n  \"type\": \"live stream UI mockup\",\n  \"subject\": {\n    \"description\": \"portrait of {argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"}, smiling, wearing a black t-shirt with a white technical schematic graphic\",\n    \"background\": \"left side shows a screen with '{argument name=\\\"left background logo\\\" default=\\\"SPACEX\\\"}' text, right side shows a red '{argument name=\\\"right background logo\\\" default=\\\"Tesla T logo\\\"}' and a dark car\"\n  },\n  \"ui_overlay\": {\n    \"top_header\": {\n      \"host_info\": \"avatar, name '{argument name=\\\"host name\\\" default=\\\"Elon Musk\\\"}', subtext '55.6万本场点赞', red '关注' button\",\n      \"rank_badge\": \"gold coin icon with '全站第1名'\",\n      \"viewer_stats\": \"3 top viewer avatars with '12.3w', '8.6w', '5.7w', total '68.7万', 'X' close button\",\n      \"right_links\": \"'更多直播 >', '礼物展馆 0/24' with blue '经典' tag\"\n    },\n    \"mid_left_gifts\": {\n      \"count\": 2,\n      \"items\": [\n        \"avatar '科技爱好者', '送小心心', heart icon x 1314\",\n        \"avatar '星辰大海', '送火箭', rocket icon x 666\"\n      ]\n    },\n    \"bottom_left_chat\": {\n      \"system_message\": \"level 37 badge '宇宙漫游者 加入了直播间'\",\n      \"message_count\": 7,\n      \"messages\": [\n        \"小火箭: 马斯克！未来可期！🚀\",\n        \"future: 特斯拉Model 2什么时候出？\",\n        \"星空梦想家: SpaceX今年能上火星吗？\",\n        \"AI探索者: Neuralink进展如何？\",\n        \"帅气的网友: 马总好！\",\n        \"Mars: 第一次来你的直播，超激动！\",\n        \"用户123: 讲讲AI吧，会取代人类吗？\"\n      ]\n    },\n    \"bottom_right_product_card\": {\n      \"hot_tag\": \"orange '热卖 x 1888'\",\n      \"image\": \"Tesla Cybertruck\",\n      \"title\": \"{argument name=\\\"product name\\\" default=\\\"特斯拉Cybertruck 电动皮卡\\\"}\",\n      \"price\": \"{argument name=\\\"product price\\\" default=\\\"¥ 1,618,000\\\"}\",\n      \"button\": \"red '抢' button\",\n      \"floating_animation\": \"translucent hearts floating up the right edge\"\n    },\n    \"bottom_bar\": {\n      \"input_field\": \"'说点什么...'\",\n      \"icons\": [\"smiley face\", \"three dots\", \"shopping cart\", \"gift box\", \"share\"]\n    }\n  }\n}",
       "images": [
         {
-          "url": "https://cms-assets.youmind.com/media/1776699445498_ga2ry5_HGO7H0DWkAApdKK.jpg",
+          "url": "assets/featured/gpt-image-2-featured-14036-1.jpg",
           "alt": "E-commerce Live Stream UI Mockup - Image 1",
           "index": 1
         }
       ],
-      "primaryImageUrl": "https://cms-assets.youmind.com/media/1776699445498_ga2ry5_HGO7H0DWkAApdKK.jpg",
-      "featuredImagePath": "assets/featured/youmind-14036-1.jpg",
+      "primaryImageUrl": "assets/featured/gpt-image-2-featured-14036-1.jpg",
+      "featuredImagePath": "assets/featured/gpt-image-2-featured-14036-1.jpg",
       "author": {
-        "name": "神经病不想好转",
-        "url": "https://x.com/sjbbxhz"
-      },
-      "source": {
-        "label": "Twitter Post",
-        "url": "https://x.com/sjbbxhz/status/2045684734714380687#reversed-0"
+        "name": "神经病不想好转"
       },
       "published": "April 19, 2026",
       "languages": [
         "en"
       ],
-      "tryUrl": "https://youmind.com/gpt-image-2-prompts?id=14036",
-      "sourceReadmeUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md#no-4-e-commerce-live-stream-ui-mockup"
+      "tryUrl": "https://imagepromptgallery.com/models/gpt-image-2/prompts?id=14036",
+      "sourceReadmeUrl": "https://imagepromptgallery.com/models/gpt-image-2/prompts?id=14036"
     },
     {
-      "id": "youmind_prompt_13467",
+      "id": "gpt_image_2_prompt_13467",
       "no": 5,
-      "youmindId": "13467",
+      "modelPromptId": "13467",
       "title": "Anime Martial Arts Battle Illustration",
       "category": "General",
       "categorySlug": "general",
@@ -160,32 +135,27 @@
       "prompt": "An anime-style illustration of a {argument name=\"action type\" default=\"high-impact martial arts battle\"} between two young female fighters in a {argument name=\"setting\" default=\"traditional wooden martial arts dojo\"}. In the foreground, a girl with black hair in a high bun wears a {argument name=\"character 1 color theme\" default=\"red and white\"} Chinese-style martial arts outfit with baggy pants. She is in a dynamic, low, forward-thrusting stance, surrounded by swirling red energy and water splashes. In the background to the right, a girl with light purple hair in twin buns wears a {argument name=\"character 2 color theme\" default=\"green and purple\"} Chinese dress with gold embroidery and black tights. She is leaping through the air in a flying kick pose, surrounded by swirling blue energy. The wooden floorboards are splintering from the intense impact, with debris and dust flying through the air. Above them hangs a weathered wooden sign with the text \"{argument name=\"sign text\" default=\"武術会\"}\". The scene features dramatic lighting, a low-angle dynamic perspective, and intense action effects.",
       "images": [
         {
-          "url": "https://cms-assets.youmind.com/media/1776756799880_c8u8w7_HGUKjjaasAAvVRa.jpg",
+          "url": "assets/featured/gpt-image-2-featured-13467-1.jpg",
           "alt": "Anime Martial Arts Battle Illustration - Image 1",
           "index": 1
         }
       ],
-      "primaryImageUrl": "https://cms-assets.youmind.com/media/1776756799880_c8u8w7_HGUKjjaasAAvVRa.jpg",
-      "featuredImagePath": "assets/featured/youmind-13467-1.jpg",
+      "primaryImageUrl": "assets/featured/gpt-image-2-featured-13467-1.jpg",
+      "featuredImagePath": "assets/featured/gpt-image-2-featured-13467-1.jpg",
       "author": {
-        "name": "たねもみ 2.0 / Tanemomi Ver2.0",
-        "url": "https://x.com/Tanemomi_Ver2"
-      },
-      "source": {
-        "label": "Twitter Post",
-        "url": "https://x.com/Tanemomi_Ver2/status/2046063806846214265#reversed-0"
+        "name": "たねもみ 2.0 / Tanemomi Ver2.0"
       },
       "published": "April 20, 2026",
       "languages": [
         "en"
       ],
-      "tryUrl": "https://youmind.com/gpt-image-2-prompts?id=13467",
-      "sourceReadmeUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md#no-5-anime-martial-arts-battle-illustration"
+      "tryUrl": "https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13467",
+      "sourceReadmeUrl": "https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13467"
     },
     {
-      "id": "youmind_prompt_13491",
+      "id": "gpt_image_2_prompt_13491",
       "no": 6,
-      "youmindId": "13491",
+      "modelPromptId": "13491",
       "title": "3D Stone Staircase Evolution Infographic",
       "category": "General",
       "categorySlug": "general",
@@ -195,27 +165,22 @@
       "prompt": "{\n  \"type\": \"evolutionary timeline infographic\",\n  \"instruction\": \"Using REFERENCE_0 as a structural base, transform the flat vector design into a highly realistic 3D infographic. Replace the smooth ramps with distinct stone steps and upgrade all organisms to photorealistic 3D models.\",\n  \"style\": {\n    \"background\": \"{argument name=\\\"background style\\\" default=\\\"vintage textured parchment paper\\\"}\",\n    \"staircase\": \"{argument name=\\\"staircase material\\\" default=\\\"realistic textured stone blocks\\\"}\",\n    \"subjects\": \"{argument name=\\\"organism style\\\" default=\\\"highly detailed photorealistic 3D renders\\\"}\"\n  },\n  \"layout\": {\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"人类演化\\\"}\",\n    \"sections\": [\n      {\n        \"position\": \"left sidebar\",\n        \"count\": 8,\n        \"labels\": [\"L0: 单细胞生命\", \"L1: 多细胞生物\", \"L2: 动物界\", \"L3: 脊索动物\", \"L4: 上陆革命\", \"L5: 哺乳纲\", \"L6: 人科演化\", \"L7: 智人纪元\"]\n      },\n      {\n        \"position\": \"top right\",\n        \"title\": \"获得的功能 / 失去的功能\",\n        \"description\": \"Legend with plus and minus icons\"\n      },\n      {\n        \"position\": \"bottom center\",\n        \"title\": \"演化关键里程碑\",\n        \"count\": 6,\n        \"description\": \"Timeline with a silhouette graphic of 6 figures showing ape-to-human evolution\"\n      }\n    ],\n    \"centerpiece\": {\n      \"description\": \"Winding stone staircase with 25 numbered steps featuring specific organisms.\",\n      \"count\": 25,\n      \"notable_elements\": [\n        \"Step 07: Jellyfish\",\n        \"Step 09: Ammonite\",\n        \"Step 10: Trilobite\",\n        \"Step 24: Walking human\",\n        \"Step 25: {argument name=\\\"future evolution concept\\\" default=\\\"glowing cosmic silhouette with a question mark\\\"}\"\n      ]\n    }\n  }\n}",
       "images": [
         {
-          "url": "https://cms-assets.youmind.com/media/1776661968404_8a5flm_HGQc_KOaMAA2vt0.jpg",
+          "url": "assets/featured/gpt-image-2-featured-13491-1.jpg",
           "alt": "3D Stone Staircase Evolution Infographic - Image 1",
           "index": 1
         }
       ],
-      "primaryImageUrl": "https://cms-assets.youmind.com/media/1776661968404_8a5flm_HGQc_KOaMAA2vt0.jpg",
-      "featuredImagePath": "assets/featured/youmind-13491-1.jpg",
+      "primaryImageUrl": "assets/featured/gpt-image-2-featured-13491-1.jpg",
+      "featuredImagePath": "assets/featured/gpt-image-2-featured-13491-1.jpg",
       "author": {
-        "name": "知识猫图解",
-        "url": "https://x.com/GeekCatX"
-      },
-      "source": {
-        "label": "Twitter Post",
-        "url": "https://x.com/GeekCatX/status/2045792240044511277#reversed-1"
+        "name": "知识猫图解"
       },
       "published": "April 19, 2026",
       "languages": [
         "en"
       ],
-      "tryUrl": "https://youmind.com/gpt-image-2-prompts?id=13491",
-      "sourceReadmeUrl": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2/blob/main/README.md#no-6-3d-stone-staircase-evolution-infographic"
+      "tryUrl": "https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13491",
+      "sourceReadmeUrl": "https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13491"
     }
   ]
 }
