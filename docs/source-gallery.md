@@ -51,12 +51,12 @@
 
 | No. | Title | Category | Image | Try | Source |
 |---:|---|---|---|---|---|
-| 1 | VR Headset Exploded View Poster | General | [Image](assets/featured/gpt-image-2-featured-13460-1.jpg) | [Try](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13460) | [Source](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13460) |
-| 2 | Illustrated City Food Map | General | [Image](assets/featured/gpt-image-2-featured-13515-1.jpg) | [Try](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13515) | [Source](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13515) |
-| 3 | Momotaro Explainer Slide in Hybrid Style | General | [Image](assets/featured/gpt-image-2-featured-13983-1.jpg) | [Try](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13983) | [Source](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13983) |
-| 4 | E-commerce Live Stream UI Mockup | General | [Image](assets/featured/gpt-image-2-featured-14036-1.jpg) | [Try](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=14036) | [Source](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=14036) |
-| 5 | Anime Martial Arts Battle Illustration | General | [Image](assets/featured/gpt-image-2-featured-13467-1.jpg) | [Try](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13467) | [Source](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13467) |
-| 6 | 3D Stone Staircase Evolution Infographic | General | [Image](assets/featured/gpt-image-2-featured-13491-1.jpg) | [Try](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13491) | [Source](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13491) |
+| 1 | VR Headset Exploded View Poster | General | [Image](assets/featured/gpt-image-2-featured-13460-1.jpg) | [Try](https://imagepromptgallery.com/cases/vr-headset-exploded-view-gpt-image-2) | [Source](https://imagepromptgallery.com/cases/vr-headset-exploded-view-gpt-image-2) |
+| 2 | Illustrated City Food Map | General | [Image](assets/featured/gpt-image-2-featured-13515-1.jpg) | [Try](https://imagepromptgallery.com/cases/illustrated-city-food-map-gpt-image-2) | [Source](https://imagepromptgallery.com/cases/illustrated-city-food-map-gpt-image-2) |
+| 3 | Momotaro Explainer Slide in Hybrid Style | General | [Image](assets/featured/gpt-image-2-featured-13983-1.jpg) | [Try](https://imagepromptgallery.com/cases/momotaro-irasutoya-hybrid-slide-gpt-image-2) | [Source](https://imagepromptgallery.com/cases/momotaro-irasutoya-hybrid-slide-gpt-image-2) |
+| 4 | E-commerce Live Stream UI Mockup | General | [Image](assets/featured/gpt-image-2-featured-14036-1.jpg) | [Try](https://imagepromptgallery.com/cases/ecommerce-live-stream-mockup-gpt-image-2) | [Source](https://imagepromptgallery.com/cases/ecommerce-live-stream-mockup-gpt-image-2) |
+| 5 | Anime Martial Arts Battle Illustration | General | [Image](assets/featured/gpt-image-2-featured-13467-1.jpg) | [Try](https://imagepromptgallery.com/cases/anime-martial-arts-battle-dojo-gpt-image-2) | [Source](https://imagepromptgallery.com/cases/anime-martial-arts-battle-dojo-gpt-image-2) |
+| 6 | 3D Stone Staircase Evolution Infographic | General | [Image](assets/featured/gpt-image-2-featured-13491-1.jpg) | [Try](https://imagepromptgallery.com/cases/3d-stone-staircase-evolution-gpt-image-2) | [Source](https://imagepromptgallery.com/cases/3d-stone-staircase-evolution-gpt-image-2) |
 
 ## 中文
 
@@ -109,9 +109,9 @@
 
 | No. | 标题 | 分类 | 图片 | 试用 | 来源 |
 |---:|---|---|---|---|---|
-| 1 | VR Headset Exploded View Poster | General | [Image](assets/featured/gpt-image-2-featured-13460-1.jpg) | [Try](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13460) | [Source](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13460) |
-| 2 | Illustrated City Food Map | General | [Image](assets/featured/gpt-image-2-featured-13515-1.jpg) | [Try](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13515) | [Source](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13515) |
-| 3 | Momotaro Explainer Slide in Hybrid Style | General | [Image](assets/featured/gpt-image-2-featured-13983-1.jpg) | [Try](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13983) | [Source](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13983) |
-| 4 | E-commerce Live Stream UI Mockup | General | [Image](assets/featured/gpt-image-2-featured-14036-1.jpg) | [Try](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=14036) | [Source](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=14036) |
-| 5 | Anime Martial Arts Battle Illustration | General | [Image](assets/featured/gpt-image-2-featured-13467-1.jpg) | [Try](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13467) | [Source](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13467) |
-| 6 | 3D Stone Staircase Evolution Infographic | General | [Image](assets/featured/gpt-image-2-featured-13491-1.jpg) | [Try](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13491) | [Source](https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13491) |
+| 1 | VR Headset Exploded View Poster | General | [Image](assets/featured/gpt-image-2-featured-13460-1.jpg) | [Try](https://imagepromptgallery.com/cases/vr-headset-exploded-view-gpt-image-2) | [Source](https://imagepromptgallery.com/cases/vr-headset-exploded-view-gpt-image-2) |
+| 2 | Illustrated City Food Map | General | [Image](assets/featured/gpt-image-2-featured-13515-1.jpg) | [Try](https://imagepromptgallery.com/cases/illustrated-city-food-map-gpt-image-2) | [Source](https://imagepromptgallery.com/cases/illustrated-city-food-map-gpt-image-2) |
+| 3 | Momotaro Explainer Slide in Hybrid Style | General | [Image](assets/featured/gpt-image-2-featured-13983-1.jpg) | [Try](https://imagepromptgallery.com/cases/momotaro-irasutoya-hybrid-slide-gpt-image-2) | [Source](https://imagepromptgallery.com/cases/momotaro-irasutoya-hybrid-slide-gpt-image-2) |
+| 4 | E-commerce Live Stream UI Mockup | General | [Image](assets/featured/gpt-image-2-featured-14036-1.jpg) | [Try](https://imagepromptgallery.com/cases/ecommerce-live-stream-mockup-gpt-image-2) | [Source](https://imagepromptgallery.com/cases/ecommerce-live-stream-mockup-gpt-image-2) |
+| 5 | Anime Martial Arts Battle Illustration | General | [Image](assets/featured/gpt-image-2-featured-13467-1.jpg) | [Try](https://imagepromptgallery.com/cases/anime-martial-arts-battle-dojo-gpt-image-2) | [Source](https://imagepromptgallery.com/cases/anime-martial-arts-battle-dojo-gpt-image-2) |
+| 6 | 3D Stone Staircase Evolution Infographic | General | [Image](assets/featured/gpt-image-2-featured-13491-1.jpg) | [Try](https://imagepromptgallery.com/cases/3d-stone-staircase-evolution-gpt-image-2) | [Source](https://imagepromptgallery.com/cases/3d-stone-staircase-evolution-gpt-image-2) |
