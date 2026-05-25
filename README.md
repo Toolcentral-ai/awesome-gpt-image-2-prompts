@@ -76,12 +76,12 @@ Open GPT Image 2 prompt templates curated from Image Prompt Gallery, with detail
 
 ### Featured prompts
 
-- No. 1: VR Headset Exploded View Poster — https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13460
-- No. 2: Illustrated City Food Map — https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13515
-- No. 3: Momotaro Explainer Slide in Hybrid Style — https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13983
-- No. 4: E-commerce Live Stream UI Mockup — https://imagepromptgallery.com/models/gpt-image-2/prompts?id=14036
-- No. 5: Anime Martial Arts Battle Illustration — https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13467
-- No. 6: 3D Stone Staircase Evolution Infographic — https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13491
+- No. 1: VR Headset Exploded View Poster — https://imagepromptgallery.com/cases/vr-headset-exploded-view-gpt-image-2
+- No. 2: Illustrated City Food Map — https://imagepromptgallery.com/cases/illustrated-city-food-map-gpt-image-2
+- No. 3: Momotaro Explainer Slide in Hybrid Style — https://imagepromptgallery.com/cases/momotaro-irasutoya-hybrid-slide-gpt-image-2
+- No. 4: E-commerce Live Stream UI Mockup — https://imagepromptgallery.com/cases/ecommerce-live-stream-mockup-gpt-image-2
+- No. 5: Anime Martial Arts Battle Illustration — https://imagepromptgallery.com/cases/anime-martial-arts-battle-dojo-gpt-image-2
+- No. 6: 3D Stone Staircase Evolution Infographic — https://imagepromptgallery.com/cases/3d-stone-staircase-evolution-gpt-image-2
 
 <a id="中文"></a>
 
@@ -155,9 +155,9 @@ Open GPT Image 2 prompt templates curated from Image Prompt Gallery, with detail
 
 ### 精选提示词
 
-- No. 1: VR Headset Exploded View Poster — https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13460
-- No. 2: Illustrated City Food Map — https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13515
-- No. 3: Momotaro Explainer Slide in Hybrid Style — https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13983
-- No. 4: E-commerce Live Stream UI Mockup — https://imagepromptgallery.com/models/gpt-image-2/prompts?id=14036
-- No. 5: Anime Martial Arts Battle Illustration — https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13467
-- No. 6: 3D Stone Staircase Evolution Infographic — https://imagepromptgallery.com/models/gpt-image-2/prompts?id=13491
+- No. 1: VR Headset Exploded View Poster — https://imagepromptgallery.com/cases/vr-headset-exploded-view-gpt-image-2
+- No. 2: Illustrated City Food Map — https://imagepromptgallery.com/cases/illustrated-city-food-map-gpt-image-2
+- No. 3: Momotaro Explainer Slide in Hybrid Style — https://imagepromptgallery.com/cases/momotaro-irasutoya-hybrid-slide-gpt-image-2
+- No. 4: E-commerce Live Stream UI Mockup — https://imagepromptgallery.com/cases/ecommerce-live-stream-mockup-gpt-image-2
+- No. 5: Anime Martial Arts Battle Illustration — https://imagepromptgallery.com/cases/anime-martial-arts-battle-dojo-gpt-image-2
+- No. 6: 3D Stone Staircase Evolution Infographic — https://imagepromptgallery.com/cases/3d-stone-staircase-evolution-gpt-image-2
