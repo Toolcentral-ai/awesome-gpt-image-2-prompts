@@ -11,9 +11,9 @@ Use this skill when a user asks for GPT Image 2 prompts, model-specific categori
 
 ## Large File Rule / 大文件规则
 
-Do not read `data/gpt-image-2-prompts.json` directly into the model context. It is about 50 MB / 845k lines. `data/categories.json` is also large because every category contains many template slugs.
+Do not read `data/gpt-image-2-prompts.json` directly into the model context. It is about 64 MB / 1.13M lines. `data/categories.json` is about 3 MB because every category contains many template slugs.
 
-不要把 `data/gpt-image-2-prompts.json` 整体读入上下文。该文件约 50 MB / 84.5 万行。`data/categories.json` 也较大，因为每个分类包含大量 template slug。
+不要把 `data/gpt-image-2-prompts.json` 整体读入上下文。该文件约 64 MB / 113 万行。`data/categories.json` 约 3 MB，因为每个分类包含大量 template slug。
 
 Use small, targeted commands to extract only the records needed for the current answer. Prefer these files in this order:
 

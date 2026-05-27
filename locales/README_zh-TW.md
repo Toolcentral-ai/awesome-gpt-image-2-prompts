@@ -12,9 +12,9 @@
 
 ## 倉庫內容
 
-- 提示詞模板: 7,429
-- 來源分類: 42
-- 生成時間: `2026-05-25T02:06:15.665Z`
+- 提示詞模板: 7,902
+- 來源分類: 70
+- 生成時間: `2026-05-27T16:53:33.984453998Z`
 - Schema 版本: `2026-05-24`
 
 ## 檔案說明
@@ -28,50 +28,91 @@
 
 ## 分類導覽
 
-| 分組 | 分類 | 模板數 | 搜尋 |
+| Group | Category | Templates | Search |
 |---|---|---:|---|
-| 其他 | GPT Image 2 提示詞 | 104 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=gpt-image-2-prompt) |
-| 風格 | 攝影 | 3174 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=photography) |
-| 風格 | 插畫 | 1988 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=illustration) |
-| 風格 | 電影感 / 劇照 | 1639 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=cinematic-film-still) |
-| 風格 | 動漫 / 漫畫 | 1486 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=anime-manga) |
-| 風格 | 極簡主義 | 1021 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=minimalism) |
-| 風格 | 3D 渲染 | 848 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=3d-render) |
-| 風格 | 復古 | 669 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=retro-vintage) |
-| 風格 | 賽博龐克 / 科幻 | 533 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=cyberpunk-sci-fi) |
-| 風格 | 草圖 / 線稿 | 422 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=sketch-line-art) |
-| 風格 | 漫畫 / 圖像小說 | 256 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=comic-graphic-novel) |
-| 風格 | 水彩 | 254 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=watercolor) |
-| 風格 | 水墨 / 中式風格 | 245 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=ink-chinese-style) |
-| 風格 | Q 版 / 可愛風 | 198 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=chibi-q-style) |
-| 風格 | 等距視角 | 105 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=isometric) |
-| 風格 | 像素藝術 | 96 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=pixel-art) |
-| 風格 | 油畫 | 80 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=oil-painting) |
-| 主題 | 角色 | 2741 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=character) |
-| 主題 | 文字 / 排版 | 2104 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=text-typography) |
-| 主題 | 肖像 / 自拍 | 1788 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=portrait-selfie) |
-| 主題 | 網紅 / 模特 | 1233 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=influencer-model) |
-| 主題 | 產品 | 883 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=product) |
-| 主題 | 建築 / 室內 | 856 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=architecture-interior) |
-| 主題 | 圖解 / 圖表 | 749 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=diagram-chart) |
-| 主題 | 城市景觀 / 街景 | 724 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=cityscape-street) |
-| 主題 | 群像 / 情侶 | 720 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=group-couple) |
-| 主題 | 風景 / 自然 | 696 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=landscape-nature) |
-| 主題 | 動物 / 生物 | 562 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=animal-creature) |
-| 主題 | 時尚單品 | 547 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=fashion-item) |
-| 主題 | 抽象 / 背景 | 474 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=abstract-background) |
-| 主題 | 食物 / 飲品 | 452 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=food-drink) |
-| 主題 | 交通工具 | 262 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=vehicle) |
-| 使用場景 | 社群貼文 | 2344 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=social-media-post) |
-| 使用場景 | 海報 / 傳單 | 2225 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=poster-flyer) |
-| 使用場景 | 產品行銷 | 1917 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=product-marketing) |
-| 使用場景 | 漫畫 / 分鏡 | 1126 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=comic-storyboard) |
-| 使用場景 | 遊戲素材 | 1010 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=game-asset) |
-| 使用場景 | 資訊圖表 / 教育視覺 | 973 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=infographic-edu-visual) |
-| 使用場景 | 個人檔案 / 頭像 | 806 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=profile-avatar) |
-| 使用場景 | App / 網頁設計 | 637 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=app-web-design) |
-| 使用場景 | 電商主圖 | 216 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=ecommerce-main-image) |
-| 使用場景 | YouTube 縮圖 | 123 | [搜尋](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=youtube-thumbnail) |
+| Style | Photorealistic | 3645 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=photorealistic) |
+| Use Case | Social Media | 3216 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=social-media) |
+| Style | Cinematic | 3181 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=cinematic) |
+| Use Case | Poster | 2849 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=poster) |
+| Use Case | Concept Art | 2353 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=concept-art) |
+| Style | Illustration | 2308 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=illustration) |
+| Use Case | Advertising | 2182 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=advertising) |
+| Use Case | Character Design | 2035 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=character-design) |
+| Category | Portrait & Character | 1995 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=portrait-character) |
+| Scene | Outdoor | 1893 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=outdoor) |
+| Style | Anime | 1671 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=anime) |
+| Scene | Studio | 1669 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=studio) |
+| Use Case | Brand Visual | 1617 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=brand-visual) |
+| Scene | Close-up | 1605 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=close-up) |
+| Category | Graphic & Poster | 1595 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=graphic-poster) |
+| Category | Anime & Game | 1440 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=anime-game) |
+| Style | Editorial | 1355 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=editorial) |
+| Style | Minimalist | 1099 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=minimalist) |
+| Style | Cute & Playful | 1087 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=cute-playful) |
+| Style | Studio Lighting | 986 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=studio-lighting) |
+| Scene | City | 974 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=city) |
+| Scene | Night | 906 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=night) |
+| Style | Vintage | 875 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=vintage) |
+| Category | Product & Commercial | 860 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=product-commercial) |
+| Category | Illustration & Art | 793 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=illustration-art) |
+| Style | Natural Light | 766 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=natural-light) |
+| Style | Dark Moody | 757 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=dark-moody) |
+| Style | Luxury | 718 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=luxury) |
+| Use Case | Education | 694 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=education) |
+| Use Case | Moodboard | 692 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=moodboard) |
+| Style | 3D Render | 677 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=3d-render) |
+| Category | Fashion & Beauty | 614 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=fashion-beauty) |
+| Scene | Street | 572 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=street) |
+| Scene | Fantasy World | 538 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=fantasy-world) |
+| Style | Futuristic | 465 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=futuristic) |
+| Scene | Sunset | 455 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=sunset) |
+| Style | Surreal | 391 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=surreal) |
+| Use Case | App / UI | 346 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=app-ui) |
+| Scene | Tabletop | 335 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=tabletop) |
+| Style | Watercolor | 319 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=watercolor) |
+| Scene | Home | 302 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=home) |
+| Style | Cyberpunk | 284 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=cyberpunk) |
+| Use Case | Product Mockup | 280 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=product-mockup) |
+| Use Case | E-commerce | 250 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=ecommerce) |
+| Use Case | Presentation | 243 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=presentation) |
+| Style | Flat Illustration | 220 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=flat-illustration) |
+| Category | Other Inspiration | 202 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=other-inspiration) |
+| Style | Documentary | 198 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=documentary) |
+| Category | Landscape & Nature | 179 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=landscape-nature) |
+| Use Case | Wallpaper | 179 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=wallpaper) |
+| Scene | Mountain | 171 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=mountain) |
+| Scene | Futuristic City | 143 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=futuristic-city) |
+| Scene | Forest | 137 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=forest) |
+| Scene | Restaurant | 134 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=restaurant) |
+| Use Case | Book Cover | 130 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=book-cover) |
+| Scene | Bedroom | 125 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=bedroom) |
+| Category | Interior & Architecture | 112 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=interior-architecture) |
+| Scene | Office | 111 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=office) |
+| Use Case | Website Hero | 111 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=website-hero) |
+| Category | Food & Beverage | 103 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=food-beverage) |
+| Style | Pixel Art | 103 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=pixel-art) |
+| Style | Isometric | 98 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=isometric) |
+| Scene | Beach | 89 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=beach) |
+| Scene | Space | 80 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=space) |
+| Style | Oil Painting | 70 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=oil-painting) |
+| Scene | Living Room | 69 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=living-room) |
+| Use Case | Album Cover | 50 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=album-cover) |
+| Scene | Kitchen | 48 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=kitchen) |
+| Scene | Underwater | 34 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=underwater) |
+| Scene | Transparent Background | 25 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=transparent-background) |
+
+## 真實案例圖片
+
+下面示例直接引用 Model Prompt Lab 真實 case 和 CDN 預覽圖，確保提示詞預覽與線上 case 資料保持一致。
+
+| 預覽 | Case | 分類 |
+|---|---|---|
+| [![VR Headset Exploded View Poster](https://cdn.imagepromptgallery.com/static-assets/gpt-image-2/cases/13460-vr-headset-exploded-view.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=2095245364&Signature=dXYP5cwOWNS3STeojOxlV7Nmp7c%3D)](https://model-prompt-lab.com/cases/vr-headset-exploded-view-gpt-image-2) | [VR Headset Exploded View Poster](https://model-prompt-lab.com/cases/vr-headset-exploded-view-gpt-image-2) | Product & Commercial |
+| [![Anime Martial Arts Battle Illustration](https://cdn.imagepromptgallery.com/static-assets/gpt-image-2/cases/13467-anime-martial-arts-battle-dojo.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=2095245364&Signature=4R1rKwGczmJDWwQT5oO6%2Fvj%2Fxy0%3D)](https://model-prompt-lab.com/cases/anime-martial-arts-battle-dojo-gpt-image-2) | [Anime Martial Arts Battle Illustration](https://model-prompt-lab.com/cases/anime-martial-arts-battle-dojo-gpt-image-2) | Anime & Game |
+| [![3D Stone Staircase Evolution Infographic](https://cdn.imagepromptgallery.com/static-assets/gpt-image-2/cases/13491-3d-stone-staircase-evolution.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=2095245364&Signature=gEJOMABqywDiHP6ySNwSgZ29TgA%3D)](https://model-prompt-lab.com/cases/3d-stone-staircase-evolution-gpt-image-2) | [3D Stone Staircase Evolution Infographic](https://model-prompt-lab.com/cases/3d-stone-staircase-evolution-gpt-image-2) | Illustration & Art |
+| [![Illustrated City Food Map](https://cdn.imagepromptgallery.com/static-assets/gpt-image-2/cases/13515-illustrated-city-food-map.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=2095245364&Signature=oPO7SUilMqwmk3%2FTq6etFp6Tuc0%3D)](https://model-prompt-lab.com/cases/illustrated-city-food-map-gpt-image-2) | [Illustrated City Food Map](https://model-prompt-lab.com/cases/illustrated-city-food-map-gpt-image-2) | Graphic & Poster |
+| [![Momotaro Explainer Slide in Hybrid Style](https://cdn.imagepromptgallery.com/static-assets/gpt-image-2/cases/13983-momotaro-irasutoya-hybrid-slide.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=2095245364&Signature=%2FzSu3aW5dZpmmRymNgZMyO0D0o4%3D)](https://model-prompt-lab.com/cases/momotaro-irasutoya-hybrid-slide-gpt-image-2) | [Momotaro Explainer Slide in Hybrid Style](https://model-prompt-lab.com/cases/momotaro-irasutoya-hybrid-slide-gpt-image-2) | Graphic & Poster |
+| [![E-commerce Live Stream UI Mockup](https://cdn.imagepromptgallery.com/static-assets/gpt-image-2/cases/14036-ecommerce-live-stream-mockup.jpg?OSSAccessKeyId=LTAI5tPvQxtV7iuMWKdnos9n&Expires=2095245364&Signature=xzvSquEjErBTSIbnXaN%2FAiDw8jc%3D)](https://model-prompt-lab.com/cases/ecommerce-live-stream-mockup-gpt-image-2) | [E-commerce Live Stream UI Mockup](https://model-prompt-lab.com/cases/ecommerce-live-stream-mockup-gpt-image-2) | Graphic & Poster |
 
 ## 使用建議
 
