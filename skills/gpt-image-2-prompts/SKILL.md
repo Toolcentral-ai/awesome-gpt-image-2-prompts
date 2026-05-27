@@ -7,7 +7,7 @@ description: Use GPT Image 2 prompt templates, semantic category links, and sour
 
 ## English
 
-Use this skill when a user asks for GPT Image 2 prompts, model-specific categories, semantic gallery searches, visual examples, or reusable prompt variables.
+Use this skill when a user asks for GPT Image 2 prompts, model-specific categories, semantic Model Prompt Lab searches, visual examples, or reusable prompt variables.
 
 1. Read `data/gpt-image-2-prompts.json` and `data/categories.json`.
 2. Match by `categoryDetail.group`, `categoryDetail.title`, `tags`, `inputMode`, and prompt text.

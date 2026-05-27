@@ -3,7 +3,7 @@
 このリポジトリは、GPT Image 2 のプロンプトテンプレート、カテゴリメタデータ、注目画像アセットを整理したものです。完全なカテゴリ表、ファイル構成、利用メモは [README.md](README.md#english) を参照してください。
 
 - メインのプロンプトサイト: https://model-prompt-lab.com/models/gpt-image-2/prompts
-- セマンティック検索の例: https://imagepromptgallery.com/models/gpt-image-2/prompts?q=photography
+- セマンティック検索の例: https://model-prompt-lab.com/models/gpt-image-2/prompts?q=photography
 - プロンプトテンプレート: 7,429
 - カテゴリ数: 42
 
