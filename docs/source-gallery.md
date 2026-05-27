@@ -10,7 +10,7 @@ Generated at: `2026-05-27T16:53:33.984453998Z`
 
 | Group | Category | Templates | Search |
 |---|---|---:|---|
-| Style | Photorealistic | 3645 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=photorealistic) |
+| Style | Sexy | 100 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=sexy) |
 | Use Case | Social Media | 3216 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=social-media) |
 | Style | Cinematic | 3181 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=cinematic) |
 | Use Case | Poster | 2849 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=poster) |
@@ -85,7 +85,7 @@ Generated at: `2026-05-27T16:53:33.984453998Z`
 
 | 分组 | 分类 | 模板数 | 检索 |
 |---|---|---:|---|
-| 风格 | 写实摄影 | 3645 | [检索](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=photorealistic) |
+| 风格 | 性感 | 100 | [检索](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=sexy) |
 | 用途 | 社媒内容 | 3216 | [检索](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=social-media) |
 | 风格 | 电影感 | 3181 | [检索](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=cinematic) |
 | 用途 | 海报 | 2849 | [检索](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=poster) |
