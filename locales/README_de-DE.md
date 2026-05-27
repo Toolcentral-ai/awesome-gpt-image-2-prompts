@@ -30,7 +30,7 @@ Kategorie-Links verwenden `q=<category>` statt des alten Formats `categories=<ca
 
 | Group | Category | Templates | Search |
 |---|---|---:|---|
-| Style | Photorealistic | 3645 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=photorealistic) |
+| Style | Sexy | 100 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=sexy) |
 | Use Case | Social Media | 3216 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=social-media) |
 | Style | Cinematic | 3181 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=cinematic) |
 | Use Case | Poster | 2849 | [Search](https://model-prompt-lab.com/models/gpt-image-2/prompts?q=poster) |
