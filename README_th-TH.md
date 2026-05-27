@@ -1,11 +1,10 @@
 # GPT Image 2 Prompts — ไทย
 
-This repository keeps a language entry structure compatible with the model repository. Core generated data is language-neutral; prompt text and localized fields are available in `data/gpt-image-2-prompts.json`.
+รีโพซิทอรีนี้รวบรวมเทมเพลตพรอมป์ GPT Image 2 เมทาดาต้าหมวดหมู่ ดูตารางหมวดหมู่ทั้งหมด โครงสร้างไฟล์ และบันทึกการใช้งานได้ที่ [README.md](README.md#english)
 
-- Main README: [README.md](README.md)
-- Model repository: https://github.com/Toolcentral-ai/gpt-image-2-prompts
-- Prompt gallery: https://imagepromptgallery.com/models/gpt-image-2/prompts
-- Templates: 7429
-- Featured prompts: 7
+- เว็บไซต์พรอมป์หลัก: https://model-prompt-lab.com/models/gpt-image-2/prompts
+- ตัวอย่างการค้นหาเชิงความหมาย: https://imagepromptgallery.com/models/gpt-image-2/prompts?q=photography
+- เทมเพลตพรอมป์: 7,429
+- หมวดหมู่: 42
 
-For Chinese guidance, see the 中文 section in [README.md](README.md#中文).
+ลิงก์หมวดหมู่ใช้ `q=<category>` เพราะระบบค้นหาของแกลเลอรีรองรับการจับคู่เชิงความหมายสำหรับเคส GPT Image 2

@@ -1,11 +1,10 @@
 # GPT Image 2 Prompts — 한국어
 
-This repository keeps a language entry structure compatible with the model repository. Core generated data is language-neutral; prompt text and localized fields are available in `data/gpt-image-2-prompts.json`.
+이 저장소는 GPT Image 2 프롬프트 템플릿, 카테고리 메타데이터을 정리합니다. 전체 카테고리 표, 파일 구조, 사용 메모는 [README.md](README.md#english)를 참고하세요.
 
-- Main README: [README.md](README.md)
-- Model repository: https://github.com/Toolcentral-ai/gpt-image-2-prompts
-- Prompt gallery: https://imagepromptgallery.com/models/gpt-image-2/prompts
-- Templates: 7429
-- Featured prompts: 7
+- 메인 프롬프트 사이트: https://model-prompt-lab.com/models/gpt-image-2/prompts
+- 의미 기반 검색 예시: https://imagepromptgallery.com/models/gpt-image-2/prompts?q=photography
+- 프롬프트 템플릿: 7,429
+- 카테고리 수: 42
 
-For Chinese guidance, see the 中文 section in [README.md](README.md#中文).
+카테고리 링크는 `q=<category>` 형식을 사용합니다. 갤러리 검색은 GPT Image 2 case에 대한 의미 기반 매칭을 지원합니다.

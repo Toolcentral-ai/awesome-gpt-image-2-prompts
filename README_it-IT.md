@@ -1,11 +1,10 @@
 # GPT Image 2 Prompts — Italiano
 
-This repository keeps a language entry structure compatible with the model repository. Core generated data is language-neutral; prompt text and localized fields are available in `data/gpt-image-2-prompts.json`.
+Questo repository organizza template di prompt per GPT Image 2 e metadati di categoria. Consulta la tabella completa delle categorie, la struttura dei file e le note d'uso in [README.md](README.md#english).
 
-- Main README: [README.md](README.md)
-- Model repository: https://github.com/Toolcentral-ai/gpt-image-2-prompts
-- Prompt gallery: https://imagepromptgallery.com/models/gpt-image-2/prompts
-- Templates: 7429
-- Featured prompts: 7
+- Sito principale dei prompt: https://model-prompt-lab.com/models/gpt-image-2/prompts
+- Esempio di ricerca semantica: https://imagepromptgallery.com/models/gpt-image-2/prompts?q=photography
+- Template di prompt: 7,429
+- Categorie: 42
 
-For Chinese guidance, see the 中文 section in [README.md](README.md#中文).
+I link di categoria usano `q=<category>` perché la ricerca della gallery supporta il matching semantico per i case GPT Image 2.
