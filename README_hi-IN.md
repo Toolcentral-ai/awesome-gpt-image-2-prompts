@@ -1,11 +1,10 @@
 # GPT Image 2 Prompts — हिन्दी
 
-This repository keeps a language entry structure compatible with the model repository. Core generated data is language-neutral; prompt text and localized fields are available in `data/gpt-image-2-prompts.json`.
+यह repository GPT Image 2 prompt templates, category metadata को व्यवस्थित करती है। पूरी category table, file structure, और usage notes के लिए [README.md](README.md#english) देखें।
 
-- Main README: [README.md](README.md)
-- Model repository: https://github.com/Toolcentral-ai/gpt-image-2-prompts
-- Prompt gallery: https://imagepromptgallery.com/models/gpt-image-2/prompts
-- Templates: 7429
-- Featured prompts: 7
+- मुख्य prompt साइट: https://model-prompt-lab.com/models/gpt-image-2/prompts
+- semantic search उदाहरण: https://imagepromptgallery.com/models/gpt-image-2/prompts?q=photography
+- Prompt templates: 7,429
+- Categories: 42
 
-For Chinese guidance, see the 中文 section in [README.md](README.md#中文).
+Category links use `q=<category>` because the gallery search endpoint supports semantic matching for GPT Image 2 cases.

@@ -1,11 +1,10 @@
 # GPT Image 2 Prompts — Tiếng Việt
 
-This repository keeps a language entry structure compatible with the model repository. Core generated data is language-neutral; prompt text and localized fields are available in `data/gpt-image-2-prompts.json`.
+Kho này tổng hợp mẫu prompt GPT Image 2, metadata danh mục. Xem bảng danh mục đầy đủ, cấu trúc tệp và ghi chú sử dụng trong [README.md](README.md#english).
 
-- Main README: [README.md](README.md)
-- Model repository: https://github.com/Toolcentral-ai/gpt-image-2-prompts
-- Prompt gallery: https://imagepromptgallery.com/models/gpt-image-2/prompts
-- Templates: 7429
-- Featured prompts: 7
+- Trang prompt chính: https://model-prompt-lab.com/models/gpt-image-2/prompts
+- Ví dụ tìm kiếm ngữ nghĩa: https://imagepromptgallery.com/models/gpt-image-2/prompts?q=photography
+- Mẫu prompt: 7,429
+- Danh mục: 42
 
-For Chinese guidance, see the 中文 section in [README.md](README.md#中文).
+Liên kết danh mục dùng `q=<category>` vì công cụ tìm kiếm của gallery hỗ trợ khớp ngữ nghĩa cho các case GPT Image 2.

@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/Toolcentral-ai/gpt-image-2-prompts/schema/gpt-image-2-prompt.schema.json",
+  "$id": "https://github.com/Toolcentral-ai/awesome-gpt-image-2-prompts/schema/gpt-image-2-prompt.schema.json",
   "title": "Image Prompt Template Bundle",
   "type": "object",
   "required": [
@@ -108,12 +108,6 @@
           },
           "highQualityImageUrl": {
             "type": "string"
-          },
-          "featuredImagePath": {
-            "type": "string"
-          },
-          "featured": {
-            "type": "boolean"
           },
           "sourcePromptId": {
             "type": "string"
