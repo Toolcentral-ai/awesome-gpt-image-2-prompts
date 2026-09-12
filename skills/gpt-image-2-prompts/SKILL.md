@@ -16,7 +16,7 @@ Use this skill when a user asks for GPT Image 2 prompts, model-specific categori
 - Use this page URL pattern for browsing and semantic category/search links:
 
 ```text
-https://model-prompt-lab.com/models/gpt-image-2/prompts?q=<search-term>
+https://imagepromptgallery.com/models/gpt-image-2/prompts?q=<search-term>
 ```
 
 ## Large File Rule

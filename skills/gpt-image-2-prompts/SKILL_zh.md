@@ -16,7 +16,7 @@ description: 使用 GPT Image 2 提示词模板、语义分类页面链接和来
 - 浏览和语义分类/搜索链接统一使用这个页面 URL 格式：
 
 ```text
-https://model-prompt-lab.com/models/gpt-image-2/prompts?q=<search-term>
+https://imagepromptgallery.com/models/gpt-image-2/prompts?q=<search-term>
 ```
 
 ## 大文件规则
